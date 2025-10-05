@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 341.33 348" overflow="visible" xml:space="preserve">
+	viewBox="0 0 341.33 348" overflow="visible" xml:space="preserve">
 <rect x="-111.02" y="-727.37" fill="#C55C01" width="566.93" height="566.93"/>
 <g>
 	<path d="M258.22-604.94c-81.91-60.76-157.44-17.79-157.44-17.79
@@ -29,3 +29,4 @@
 	395.11,-24.44 "/>
 <line fill="none" stroke="#C55C01" stroke-miterlimit="10" x1="395.11" y1="-24.44" x2="-34.22" y2="-24.44"/>
 </svg>
+
